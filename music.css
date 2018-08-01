@@ -1,0 +1,21 @@
+h1{
+  color:purple;
+  font-size: 42px;
+  text-align:center;
+}
+h2{
+  color:red;
+  font-size: 24px;
+}
+p{
+  color:blue;
+  font-size: 18px;
+  font-family:monospace;
+}
+
+Songs{
+  background-color: white;
+  width:80%;
+  text-align:center;
+  margin:auto
+}
